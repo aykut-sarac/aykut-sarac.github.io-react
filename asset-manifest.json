@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35b4b8e3.chunk.css",
+    "main.js": "/static/js/main.3f8082f5.chunk.js",
+    "main.js.map": "/static/js/main.3f8082f5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.13135219.js",
+    "runtime-main.js.map": "/static/js/runtime-main.13135219.js.map",
+    "static/js/2.0b7db62c.chunk.js": "/static/js/2.0b7db62c.chunk.js",
+    "static/js/2.0b7db62c.chunk.js.map": "/static/js/2.0b7db62c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4dcde5b69799b6172b9772c2e6f3e350.js": "/precache-manifest.4dcde5b69799b6172b9772c2e6f3e350.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.35b4b8e3.chunk.css.map": "/static/css/main.35b4b8e3.chunk.css.map",
+    "static/js/2.0b7db62c.chunk.js.LICENSE.txt": "/static/js/2.0b7db62c.chunk.js.LICENSE.txt",
+    "static/media/Resume.pdf": "/static/media/Resume.bdbaaa1b.pdf",
+    "static/media/App.css": "/static/media/banner.d53fed8c.jpg",
+    "static/media/bloggif.gif": "/static/media/bloggif.7af0911c.gif",
+    "static/media/ecomgif.gif": "/static/media/ecomgif.49f6a476.gif",
+    "static/media/ozgif.gif": "/static/media/ozgif.9e42746d.gif",
+    "static/media/tweetmegif.gif": "/static/media/tweetmegif.4865394b.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13135219.js",
+    "static/js/2.0b7db62c.chunk.js",
+    "static/css/main.35b4b8e3.chunk.css",
+    "static/js/main.3f8082f5.chunk.js"
+  ]
+}
