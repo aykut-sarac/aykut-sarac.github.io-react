@@ -1,29 +1,27 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.6aacfd87.chunk.css",
-    "main.js": "/myapp/static/js/main.f76ec387.chunk.js",
-    "main.js.map": "/myapp/static/js/main.f76ec387.chunk.js.map",
-    "runtime-main.js": "/myapp/static/js/runtime-main.6d446693.js",
-    "runtime-main.js.map": "/myapp/static/js/runtime-main.6d446693.js.map",
-    "static/js/2.2d087320.chunk.js": "/myapp/static/js/2.2d087320.chunk.js",
-    "static/js/2.2d087320.chunk.js.map": "/myapp/static/js/2.2d087320.chunk.js.map",
-    "index.html": "/myapp/index.html",
-    "precache-manifest.dc346e6687e9f8b38b54efdb976d7046.js": "/myapp/precache-manifest.dc346e6687e9f8b38b54efdb976d7046.js",
-    "service-worker.js": "/myapp/service-worker.js",
-    "static/css/main.6aacfd87.chunk.css.map": "/myapp/static/css/main.6aacfd87.chunk.css.map",
-    "static/js/2.2d087320.chunk.js.LICENSE.txt": "/myapp/static/js/2.2d087320.chunk.js.LICENSE.txt",
-    "static/media/Resume.pdf": "/myapp/static/media/Resume.aee312c4.pdf",
-    "static/media/App.css": "/myapp/static/media/banner.d53fed8c.jpg",
-    "static/media/batusgif.gif": "/myapp/static/media/batusgif.12264855.gif",
-    "static/media/bloggif.gif": "/myapp/static/media/bloggif.7af0911c.gif",
-    "static/media/ecomgif.gif": "/myapp/static/media/ecomgif.49f6a476.gif",
-    "static/media/ozgif.gif": "/myapp/static/media/ozgif.9e42746d.gif",
-    "static/media/tweetmegif.gif": "/myapp/static/media/tweetmegif.4865394b.gif"
+    "main.css": "/static/css/main.35b4b8e3.chunk.css",
+    "main.js": "/static/js/main.cb701cd1.chunk.js",
+    "main.js.map": "/static/js/main.cb701cd1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.13135219.js",
+    "runtime-main.js.map": "/static/js/runtime-main.13135219.js.map",
+    "static/js/2.2350f20d.chunk.js": "/static/js/2.2350f20d.chunk.js",
+    "static/js/2.2350f20d.chunk.js.map": "/static/js/2.2350f20d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d8b4be9e4216f90e161cadcdb5f9ce33.js": "/precache-manifest.d8b4be9e4216f90e161cadcdb5f9ce33.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.35b4b8e3.chunk.css.map": "/static/css/main.35b4b8e3.chunk.css.map",
+    "static/js/2.2350f20d.chunk.js.LICENSE.txt": "/static/js/2.2350f20d.chunk.js.LICENSE.txt",
+    "static/media/Resume.pdf": "/static/media/Resume.aee312c4.pdf",
+    "static/media/App.css": "/static/media/banner.d53fed8c.jpg",
+    "static/media/batus5.jpg": "/static/media/batus5.44209080.jpg",
+    "static/media/ecom1.jpg": "/static/media/ecom1.3862ed31.jpg",
+    "static/media/oz1.jpg": "/static/media/oz1.5867447b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d446693.js",
-    "static/js/2.2d087320.chunk.js",
-    "static/css/main.6aacfd87.chunk.css",
-    "static/js/main.f76ec387.chunk.js"
+    "static/js/runtime-main.13135219.js",
+    "static/js/2.2350f20d.chunk.js",
+    "static/css/main.35b4b8e3.chunk.css",
+    "static/js/main.cb701cd1.chunk.js"
   ]
 }
